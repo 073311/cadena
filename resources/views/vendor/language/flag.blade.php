@@ -1,0 +1,1 @@
+<img src="{{ asset('vendor/ovds/language/src/Resources/assets/img/flags/'. $code .'.png') }}" alt="{{ $name }}" width="24px" />
