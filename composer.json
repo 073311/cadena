@@ -1,0 +1,18 @@
+{
+    "name": "073311/cadena",
+    "description": "short pakage description",
+    "type": "string",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "073311\\Cadena\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tesfay"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
